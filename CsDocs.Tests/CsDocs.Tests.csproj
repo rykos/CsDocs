@@ -20,4 +20,10 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Fixtures" />
+    <Folder Include="Integration" />
+    <Folder Include="Unit" />
+  </ItemGroup>
+
 </Project>
